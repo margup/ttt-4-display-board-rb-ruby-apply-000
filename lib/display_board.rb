@@ -7,5 +7,5 @@ def display_board(ttt)
   puts "-----------"
   puts " #{ttt[6]} | #{ttt[7]} | #{ttt[8]} " 
 end
-board = [" "," "," "," ","x"," "," "," "," "]
-display_board(ttt)
+board = [" "," "," "," "," "," "," "," "," "]
+display_board(borad)
